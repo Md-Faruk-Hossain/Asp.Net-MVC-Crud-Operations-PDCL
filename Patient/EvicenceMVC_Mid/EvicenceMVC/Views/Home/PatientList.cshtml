@@ -1,0 +1,64 @@
+﻿@model IEnumerable<EvicenceMVC.Models.TestEntry>
+
+@{
+    ViewBag.Title = "PatientList";
+}
+
+<h2 class="bg-primary text-center">Patient List</h2>
+
+<p>
+    @*@Html.ActionLink("Create New", "Create")*@
+    <a class="btn btn-success shadow" href="@Url.Action("exportReport")">Download Report</a>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.PatientName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Picture)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Age)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.MobileNo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TestDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DueDate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.PatientName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Picture)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Age)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.MobileNo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TestDate)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DueDate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.TestEntryId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.TestEntryId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.TestEntryId })
+        </td>
+    </tr>
+}
+
+</table>

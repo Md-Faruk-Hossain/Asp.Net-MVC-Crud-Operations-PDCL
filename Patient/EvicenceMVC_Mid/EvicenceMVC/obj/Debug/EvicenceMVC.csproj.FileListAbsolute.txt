@@ -1,0 +1,146 @@
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\09440118-458a-4539-91b2-0d385ae53692.jpg
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\1.jpg
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\128d913f-7ec9-4124-a2f3-253566d60053.jpg
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\721cf99c-7ce0-407f-bc0c-5e4085c28e8e.jpg
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\825b47b0-e15d-4aa7-868e-58a6f8048544.jpg
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\c88a7906-0bb3-4c03-800b-fcfb04699c81.jpg
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\d270bf1e-5561-44fd-aa86-9c14143d5ef6.jpg
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\da1217cc-bb48-4f6d-a81b-4cbcb0ac4900.jpg
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\ee65441c-c0cd-46bf-a55d-7caf23f3b200.jpg
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\f9cf6381-1294-49ca-bbcc-2baad7e1d13c.jpg
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EvicenceMVC.dll.config
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EvicenceMVC.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EvicenceMVC.pdb
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\csc.exe
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\csc.exe.config
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\csc.rsp
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\csi.exe
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\csi.rsp
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\System.AppContext.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\vbc.exe
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\vbc.exe.config
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\vbc.rsp
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EntityFramework.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Newtonsoft.Json.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Helpers.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Mvc.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Razor.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Webpages.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EntityFramework.xml
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Newtonsoft.Json.xml
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Razor.xml
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Webpages.xml
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Helpers.xml
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Mvc.xml
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\obj\Debug\EvicenceMVC.csproj.AssemblyReference.cache
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\obj\Debug\EvicenceMVC.csproj.CoreCompileInputs.cache
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\obj\Debug\EvicenceMVC.csproj.CopyComplete
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\obj\Debug\EvicenceMVC.dll
+C:\Users\Victor\Desktop\EV\Patient\EvicenceMVC_Mid\EvicenceMVC\obj\Debug\EvicenceMVC.pdb
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\09440118-458a-4539-91b2-0d385ae53692.jpg
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\1.jpg
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\128d913f-7ec9-4124-a2f3-253566d60053.jpg
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\721cf99c-7ce0-407f-bc0c-5e4085c28e8e.jpg
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\825b47b0-e15d-4aa7-868e-58a6f8048544.jpg
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\c88a7906-0bb3-4c03-800b-fcfb04699c81.jpg
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\d270bf1e-5561-44fd-aa86-9c14143d5ef6.jpg
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\da1217cc-bb48-4f6d-a81b-4cbcb0ac4900.jpg
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\ee65441c-c0cd-46bf-a55d-7caf23f3b200.jpg
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Uploads\f9cf6381-1294-49ca-bbcc-2baad7e1d13c.jpg
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EvicenceMVC.dll.config
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EvicenceMVC.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EvicenceMVC.pdb
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\csc.exe
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\csc.exe.config
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\csc.rsp
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\csi.exe
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\csi.rsp
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\System.AppContext.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\System.Collections.Immutable.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\System.IO.FileSystem.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\System.Reflection.Metadata.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\vbc.exe
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\vbc.exe.config
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\vbc.rsp
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\VBCSCompiler.exe
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\roslyn\VBCSCompiler.exe.config
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EntityFramework.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EntityFramework.SqlServer.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Microsoft.Web.Infrastructure.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Newtonsoft.Json.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Helpers.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Mvc.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Razor.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Webpages.Deployment.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Webpages.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Webpages.Razor.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EntityFramework.xml
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\EntityFramework.SqlServer.xml
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Newtonsoft.Json.xml
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Razor.xml
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Webpages.xml
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Webpages.Deployment.xml
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Webpages.Razor.xml
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Helpers.xml
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\System.Web.Mvc.xml
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\obj\Debug\EvicenceMVC.csproj.AssemblyReference.cache
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\obj\Debug\EvicenceMVC.csproj.CoreCompileInputs.cache
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\obj\Debug\EvicenceMVC.csproj.CopyComplete
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\obj\Debug\EvicenceMVC.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\obj\Debug\EvicenceMVC.pdb
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.CrystalReports.Engine.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.ReportSource.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.Shared.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+H:\7MVC\PROJECT\New folder\Patient\Patient\EvicenceMVC_Mid\EvicenceMVC\bin\stdole.dll
